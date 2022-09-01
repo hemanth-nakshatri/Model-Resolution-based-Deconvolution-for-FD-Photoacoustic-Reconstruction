@@ -1,5 +1,5 @@
 # Model-Resolution-based-Deconvolution-for-FD-Photoacoustic-Reconstruction
-Model resolution based deconvolution (SALSA) improves frequency domain photo acoustic reconstruction. The full paper for reference can be found in https://doi.org/10.1121/10.0013829
+Model resolution based deconvolution (SALSA) improves frequency domain photo acoustic reconstruction. The full paper with detailed explanation and formulation can be found in https://doi.org/10.1121/10.0013829
 
 ## Step 1 (Reconstruction_penalty_function_step1.m)
 ### Parametres section
